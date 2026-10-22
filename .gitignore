@@ -1,0 +1,38 @@
+# --- Flutter / Dart ---
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/build/
+app/.idea/
+app/android/.gradle/
+app/android/local.properties
+app/android/key.properties
+app/**/*.iml
+app/.metadata
+
+# --- Firmware ---
+firmware/**/config.h
+firmware/**/build/
+firmware/**/*.bin
+firmware/**/*.elf
+firmware/**/*.map
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+tools/out/
+tools/assets/*.png
+
+# --- Editores / SO ---
+.DS_Store
+*.swp
+*.swo
+.vscode/
+
+
+# --- agentes ---
+AGENTS.md
+.AGENTS.md
