@@ -16,7 +16,7 @@ GPS, mapa, ruta, HUD        tiles RGB565            recibe y blit-ea
 | `app/`                  | App Flutter (Android). Renderiza, captura y envía frames. |
 | `firmware/nav_display/` | Firmware Arduino del ESP32-C3.                            |
 | `tools/`                | Banco de pruebas en Python (USB y WebSocket).             |
-| `docs/PLAN.md`          | Plan de desarrollo completo y por fases.                  |
+| `docs/plan-navegacion.md` | Plan de desarrollo completo y por fases.                  |
 | `docs/protocol.md`      | Especificación normativa del protocolo.                   |
 
 ## Arranque rápido
